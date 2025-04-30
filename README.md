@@ -1,34 +1,17 @@
-# Matemáticas
+# Calculadora JS
 
-Este repositorio contiene recursos, ejemplos y proyectos relacionados con matemáticas.
+Una calculadora simple implementada en JavaScript que permite realizar operaciones básicas.
 
-## Contenido
+## Características
 
-- **Teoría**: Conceptos matemáticos explicados.
-- **Ejercicios**: Problemas resueltos y propuestos.
-- **Proyectos**: Aplicaciones prácticas de matemáticas.
+- Operaciones disponibles: `suma`, `resta`, `multiplicación`, `división`
+- Código limpio y modular
+- Listo para extenderse con interfaz web o CLI
 
-## Requisitos
+## Instalación
 
-- [Python](https://www.python.org/) (si se incluyen scripts).
-- Herramientas adicionales según el proyecto.
+Clona el repositorio:
 
-## Uso
-
-1. Clona este repositorio:
-    ```bash
-    git clone https://github.com/tu-usuario/matematicas.git
-    ```
-2. Navega al directorio del proyecto:
-    ```bash
-    cd matematicas
-    ```
-3. Sigue las instrucciones específicas de cada carpeta.
-
-## Contribuciones
-
-¡Las contribuciones son bienvenidas! Por favor, abre un issue o envía un pull request.
-
-## Licencia
-
-Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
+```bash
+git clone https://github.com/tu_usuario/calculadora-js.git
+cd calculadora-js
